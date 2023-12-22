@@ -23,6 +23,10 @@ Git clone https://github.com/WideSu/Fullstack_Angular_SpringBoot_E_Commerce.git
 ## Install vs code
 [IDE website](http://visualstudio.com/)
 
+## Install Java
+- JDK 17 or higher to support spring boot 3
+- Java IDE: IntelliJ
+
 # Reason for choosing those tools
 ## Why choose Java
 OOP, classes, interfaces, inheritance, exception handling, collections
