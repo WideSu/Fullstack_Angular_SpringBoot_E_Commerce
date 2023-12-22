@@ -16,7 +16,9 @@ This is a full-stack E-Commerce Single-Page Website built using:
 Git clone https://github.com/WideSu/Fullstack_Angular_SpringBoot_E_Commerce.git
 ```
 # How to build
-## Install Angular
+## Install nvm, node, tsc
 - [On Mac-Install Development Tools](./docs/installation/Mac/README.md)
 - [On Linux-Install Development Tools](./docs/installation/Linux/README.md)
 - [On Win-Install Development Tools](./docs/installation/Win/README.md)
+## Install vs code
+[IDE website](http://visualstudio.com/)
